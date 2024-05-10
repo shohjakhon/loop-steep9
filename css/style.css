@@ -12,7 +12,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #F4C66A;
+    background: #86f46a;
+    /* change Bg */
     height: 100vh;
     font-family: 'Roboto', sans-serif;
 }
